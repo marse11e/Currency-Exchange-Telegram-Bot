@@ -1,0 +1,80 @@
+.
+├── db.sqlite3
+├── example.env
+├── LICENSE
+├── main
+│   ├── admin.py
+│   ├── apps.py
+│   ├── bot.py
+│   ├── button.py
+│   ├── __init__.py
+│   ├── management
+│   │   └── commands
+│   ├── migrations
+│   │   ├── 0001_initial.py
+│   │   ├── 0003_telegramads.py
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   ├── models.py
+│   ├── pars.py
+│   ├── __pycache__
+│   │   ├── admin.cpython-311.pyc
+│   │   ├── apps.cpython-311.pyc
+│   │   ├── bot.cpython-311.pyc
+│   │   ├── button.cpython-311.pyc
+│   │   ├── __init__.cpython-311.pyc
+│   │   ├── models.cpython-311.pyc
+│   │   ├── pars.cpython-311.pyc
+│   │   └── signals.cpython-311.pyc
+│   ├── signals.py
+│   ├── tests.py
+│   ├── utils.py
+│   └── views.py
+├── manage.py
+├── media
+│   ├── telegram_ads_image
+│   │   └── telegram_ads_None.jpg
+│   └── telegram_user_image
+│       └── 1303424158_profile_photo.jpg
+├── plaintext.tree
+├── README.md
+├── requirements.txt
+├── TGDjango
+│   ├── asgi.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-311.pyc
+│   │   ├── settings.cpython-311.pyc
+│   │   ├── urls.cpython-311.pyc
+│   │   └── wsgi.cpython-311.pyc
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+└── venv
+    ├── bin
+    │   ├── activate
+    │   ├── activate.csh
+    │   ├── activate.fish
+    │   ├── activate.nu
+    │   ├── activate.ps1
+    │   ├── activate_this.py
+    │   ├── django-admin
+    │   ├── dotenv
+    │   ├── normalizer
+    │   ├── pip
+    │   ├── pip3
+    │   ├── pip-3.11
+    │   ├── pip3.11
+    │   ├── python -> /usr/bin/python3
+    │   ├── python3 -> python
+    │   ├── python3.11 -> python
+    │   ├── sqlformat
+    │   ├── wheel
+    │   ├── wheel3
+    │   ├── wheel-3.11
+    │   └── wheel3.11
+    ├── lib
+    │   └── python3.11
+    └── pyvenv.cfg
+
+16 directories, 69 files
