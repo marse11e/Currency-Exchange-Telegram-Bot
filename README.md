@@ -29,4 +29,4 @@ python3 manage.py runbot
 Этот проект распространяется под лицензией MIT. Подробности см. в файле [LICENSE](LICENSE).
 
 # Автор
-[marse11e] - [marselle.naz@yandex.kz]
+marse11e - marselle.naz@yandex.kz
