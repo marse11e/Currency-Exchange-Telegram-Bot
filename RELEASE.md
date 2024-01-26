@@ -12,7 +12,7 @@
 
 Для более подробной информации о новых возможностях и использовании бота обращайтесь к [Руководству Пользователя](README.md).
 
-# Автор
+### Автор
 - [Github](https://github.com/marse11e)
 - [Instagram](https://instagram.com/marselle.naz)
 - [Telegram](https://t.me/MarselleNaz)
